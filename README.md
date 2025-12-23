@@ -5,7 +5,7 @@ I am a **Computer Science Student** with a passion for building AI-driven mobile
 ### **Technical Focus**
 * 📱 **Mobile AI:** Developing optimized mobile applications using **MobileNetV2** for real-time inference.
 * 🖼️ **Computer Vision:** Engineering image preprocessing pipelines with **OpenCV** and **Pillow** to handle real-world data challenges.
-* ⚙️ **Full-Stack Development:** Building robust APIs with **FastAPI**, **Pydantic**, and **Prisma ORM**.
+* ⚙️ **Full-Stack Development:** Building robust APIs with **FastAPI**, **Pydantic**, and **SQLAlchemy**.
 
 ### **Tech Stack**
 * **Languages:** Python, JavaScript, HTML/CSS
